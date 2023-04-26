@@ -27,6 +27,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="Statistic">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.4lex4.intellij.solarized">
           <value>
             <PluginData>
@@ -85,6 +96,17 @@
         <entry key="org.jetbrains.plugins.vue">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="some.awesome">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
         <entry key="varme.pw.oceanic-dark-theme">
