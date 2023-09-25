@@ -22,9 +22,17 @@
           <option name="url" value="https://gitee.com/y_project/RuoYi-Vue.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.n.xiaomi.com/ott-sp/adx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.n.xiaomi.com" />
+          <option name="userName" value="fuyinshen@xiaomi.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\CS自学\project\Java\IdeaPro\projects" />
+    <option name="cloneParentDir" value="D:\project" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
