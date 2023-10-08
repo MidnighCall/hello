@@ -77,6 +77,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.tang">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="izhangzhihao.rainbow.brackets">
           <value>
             <PluginData>
