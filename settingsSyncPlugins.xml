@@ -99,6 +99,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.vermouthx.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="izhangzhihao.rainbow.brackets">
           <value>
             <PluginData>
@@ -140,6 +151,7 @@
                   <option value="com.intellij.modules.platform" />
                 </set>
               </option>
+              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
